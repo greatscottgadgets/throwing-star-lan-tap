@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPCB (2010-04-21 BZR 23xx)-stable date = Thu Nov 18 14:05:36 2010
+
+BeginCmp
+TimeStamp = /4CE56A8B;
+Reference = C1;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE56A8D;
+Reference = C2;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE47095;
+Reference = J1;
+ValeurCmp = RJ45;
+IdModule  = RJ45-RJHSE-5380;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE4709A;
+Reference = J2;
+ValeurCmp = RJ45;
+IdModule  = RJ45-RJHSE-5380;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE470AE;
+Reference = J3;
+ValeurCmp = RJ45;
+IdModule  = RJ45-RJHSE-5380;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CE470C3;
+Reference = J4;
+ValeurCmp = RJ45;
+IdModule  = RJ45-RJHSE-5380;
+EndCmp
+
+EndListe
