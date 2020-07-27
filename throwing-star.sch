@@ -5,10 +5,10 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Throwing Star LAN Tap"
-Date "2020-07-24"
+Date "2020-07-27"
 Rev "1"
 Comp "Copyright (c) 2010-2020 Great Scott Gadgets <info@greatscottgadgets.com>"
-Comment1 "License: GPL v2"
+Comment1 "Licensed under the CERN-OHL-P v2"
 Comment2 ""
 Comment3 ""
 Comment4 ""
