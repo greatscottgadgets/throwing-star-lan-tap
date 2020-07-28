@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Throwing Star LAN Tap"
-Date "2020-07-27"
+Date "2020-07-28"
 Rev "1"
 Comp "Copyright (c) 2010-2020 Great Scott Gadgets <info@greatscottgadgets.com>"
 Comment1 "Licensed under the CERN-OHL-P v2"
@@ -241,7 +241,7 @@ U 1 1 5F1DA259
 P 4050 2700
 F 0 "J1" V 4061 3230 50  0000 L CNN
 F 1 "RJ45_Shielded" V 4152 3230 50  0000 L CNN
-F 2 "Connector_RJ:RJ45_Amphenol_RJHSE538X" V 4050 2725 50  0001 C CNN
+F 2 "throwing-star:RJ45_Amphenol_RJHSE538X_TSLT" V 4050 2725 50  0001 C CNN
 F 3 "~" V 4050 2725 50  0001 C CNN
 F 4 "Amphenol" V 4050 2700 50  0001 C CNN "Manufacturer"
 F 5 "RJHSE5080" V 4050 2700 50  0001 C CNN "Part Number"
@@ -257,7 +257,7 @@ U 1 1 5F1E28A4
 P 6950 2700
 F 0 "J2" V 6961 3230 50  0000 L CNN
 F 1 "RJ45_Shielded" V 7052 3230 50  0000 L CNN
-F 2 "Connector_RJ:RJ45_Amphenol_RJHSE538X" V 6950 2725 50  0001 C CNN
+F 2 "throwing-star:RJ45_Amphenol_RJHSE538X_TSLT" V 6950 2725 50  0001 C CNN
 F 3 "~" V 6950 2725 50  0001 C CNN
 F 4 "Amphenol" V 6950 2700 50  0001 C CNN "Manufacturer"
 F 5 "RJHSE5080" V 6950 2700 50  0001 C CNN "Part Number"
@@ -271,7 +271,7 @@ U 1 1 5F1E47AC
 P 5250 4900
 F 0 "J3" V 4900 4950 50  0000 C CNN
 F 1 "RJ45_Shielded" V 4800 4950 50  0000 C CNN
-F 2 "Connector_RJ:RJ45_Amphenol_RJHSE538X" V 5250 4925 50  0001 C CNN
+F 2 "throwing-star:RJ45_Amphenol_RJHSE538X_TSLT" V 5250 4925 50  0001 C CNN
 F 3 "~" V 5250 4925 50  0001 C CNN
 F 4 "Amphenol" V 5250 4900 50  0001 C CNN "Manufacturer"
 F 5 "RJHSE5080" V 5250 4900 50  0001 C CNN "Part Number"
@@ -285,7 +285,7 @@ U 1 1 5F1E5BDE
 P 6450 4900
 F 0 "J4" V 6100 4950 50  0000 C CNN
 F 1 "RJ45_Shielded" V 6000 4950 50  0000 C CNN
-F 2 "Connector_RJ:RJ45_Amphenol_RJHSE538X" V 6450 4925 50  0001 C CNN
+F 2 "throwing-star:RJ45_Amphenol_RJHSE538X_TSLT" V 6450 4925 50  0001 C CNN
 F 3 "~" V 6450 4925 50  0001 C CNN
 F 4 "Amphenol" V 6450 4900 50  0001 C CNN "Manufacturer"
 F 5 "RJHSE5080" V 6450 4900 50  0001 C CNN "Part Number"

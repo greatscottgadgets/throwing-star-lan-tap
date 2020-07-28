@@ -1,4 +1,4 @@
-update=Mon 27 Jul 2020 11:22:49 AM MDT
+update=Tue 28 Jul 2020 11:21:02 AM MDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -16,6 +16,16 @@ version=1
 [eeschema]
 version=1
 LibDir=
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -223,9 +233,9 @@ Enabled=1
 [pcbnew/Layer.F.CrtYd]
 Enabled=1
 [pcbnew/Layer.B.Fab]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.F.Fab]
-Enabled=0
+Enabled=1
 [pcbnew/Layer.Rescue]
 Enabled=0
 [pcbnew/Netclasses]
